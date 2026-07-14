@@ -3,8 +3,8 @@
 > **AI-powered beat generation, synthesis, mixing, and mastering — with MCP server integration for Claude Code and OpenCode**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
-[![Stars](https://img.shields.io/github/stars/IzzoIzzoIzzo/FL-STUDIO-AI?style=social)](https://github.com/IzzoIzzoIzzo/FL-STUDIO-AI)
-[![Status](https://img.shields.io/badge/status-pre--release%20v8.0-blueviolet)](https://github.com/IzzoIzzoIzzo/FL-STUDIO-AI)
+[![Stars](https://img.shields.io/github/stars/IzzoSol/FL-STUDIO-AI?style=social)](https://github.com/IzzoSol/FL-STUDIO-AI)
+[![Status](https://img.shields.io/badge/status-pre--release%20v8.0-blueviolet)](https://github.com/IzzoSol/FL-STUDIO-AI)
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://python.org)
 
 ---
@@ -285,5 +285,5 @@ MIT — Use freely. Build legacy.
 <p align="center">
   Built by <a href="https://x.com/IzzoSol"><strong>IzzoSol</strong></a> &nbsp;·&nbsp;
   <a href="https://x.com/shaddaiAI">@shaddaiAI</a> &nbsp;·&nbsp;
-  Part of the ⚡ <a href="https://github.com/IzzoIzzoIzzo/Shaddai"><strong>SHADDAI ecosystem</strong></a>
+  Part of the ⚡ <a href="https://github.com/IzzoSol/Shaddai"><strong>SHADDAI ecosystem</strong></a>
 </p>
